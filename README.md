@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :octocat: 👋
 
 <!--
 **grit6217/grit6217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
